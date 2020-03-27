@@ -1,3 +1,5 @@
+print('B站BV号转换为AV号转换器 - GamerNoTitle')
+print('-------------------------------------')
 bv=input('请输入BV号：')
 withoutbv=str(bv).strip('BV')
 num=[]
